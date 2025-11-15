@@ -1,0 +1,2 @@
+transform,train_acc,val_acc,train_loss,val_loss
+cutout_hor_ver_flip_resizedcrop,0.9997996687889099,0.795950174331665,0.013105952180922031,0.8061798214912415
